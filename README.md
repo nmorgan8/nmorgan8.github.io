@@ -5,11 +5,9 @@ Results-oriented Computer Science major striving for an internship or research o
 ## Education
 
 ### **Loyola Marymount University**
-Seaver College of Science & Engineering
-
-Bachelor of Science in Computer Science & Minor Pure Mathematics
-
-GPA 3.71
+> Seaver College of Science & Engineering
+> Bachelor of Science in Computer Science & Minor Pure Mathematics
+> GPA 3.71
 
 #### **Awards & Honors**
 * LMU 2018/2019 Seaver College Dean’s List
