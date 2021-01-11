@@ -12,7 +12,7 @@ GPA 3.71
 ```
 #### **Awards & Honors**
 * LMU 2018/2019 Seaver College Dean’s List
-*  LMU 2019/2020 Seaver College Dean’s List
+* LMU 2019/2020 Seaver College Dean’s List
 * 2nd Place HackerRank: Git Gud Competition 
 
 # Related Coursework
