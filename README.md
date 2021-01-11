@@ -1,11 +1,17 @@
 # About Me
 
-# Education
+## Education
 
-## Related Coursework
+# Related Coursework
 
-### Projects
+# Technical Skills
+
+# Projects
 
 # Experience
 
-## Activies & Extracurriculars
+# Volunteering & Extracurriculars
+
+# Organizations
+
+# Awards
