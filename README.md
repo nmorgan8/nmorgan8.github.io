@@ -10,13 +10,13 @@ Results-oriented Computer Science major striving for an internship or research o
 > GPA 3.71
 
 #### **Awards & Honors**
+- 2nd Place HackerRank: Git Gud Competition 
 - LMU Seaver College Dean’s List:
   - Fall 2018
   - Spring 2019
   - Fall 2019
   - Spring 2020
   - Fall 2020
-- 2nd Place HackerRank: Git Gud Competition 
 
 # Related Coursework
 
