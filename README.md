@@ -25,7 +25,7 @@ Theory of Computation, Calculus (I, II, III), Methods of Proofs,
 Discrete Methods
 
 # Technical Skills
-**Languages:** Python, JavaScript, Java, TypeScript, ReactJS, Swift, HTML5
+**Languages:** Python, JavaScript, Java, TypeScript, ReactJS, Swift, HTML5 </br>
 **Software and Tools:** MongoDB, Visual Studios, AWS, Docker, Microsoft Office
 
 # Projects
