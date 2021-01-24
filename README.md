@@ -26,9 +26,9 @@ Discrete Methods
 
 # Technical Skills
 <dl>
-<dt>**Languages**</dt>
+<dt>Languages</dt>
 <dd>Python, JavaScript, Java, TypeScript, ReactJS, Swift, HTML5 </dd>
-<dt>**Software and Tools**</dt>
+<dt>Software and Tools</dt>
 <dd>MongoDB, Visual Studios, AWS, Docker, Microsoft Office</dd>
 </dl>
 
