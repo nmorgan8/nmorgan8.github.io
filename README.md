@@ -19,10 +19,17 @@ Results-oriented Computer Science major striving for an internship or research o
   - Fall 2020
 
 # Related Coursework
+Data Structures, Algorithms, Artificial Intelligence,
+Programming Languages, Computer Systems, Interaction Design,
+Theory of Computation, Calculus (I, II, III), Methods of Proofs,
+Discrete Methods
 
 # Technical Skills
+**Languages:** Python, JavaScript, Java, TypeScript, ReactJS, Swift, HTML5
+**Software and Tools:** MongoDB, Visual Studios, AWS, Docker, Microsoft Office
 
 # Projects
+[gather - Networking for Diversity](https://gatherweb.vercel.app/)
 
 # Experience
 
