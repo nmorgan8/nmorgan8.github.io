@@ -25,8 +25,15 @@ Theory of Computation, Calculus (I, II, III), Methods of Proofs,
 Discrete Methods
 
 # Technical Skills
-**Languages:** Python, JavaScript, Java, TypeScript, ReactJS, Swift, HTML5 &nbsp 
+**Languages:** Python, JavaScript, Java, TypeScript, ReactJS, Swift, HTML5 
 **Software and Tools:** MongoDB, Visual Studios, AWS, Docker, Microsoft Office
+
+<dl>
+<dt>Languages</dt>
+<dd>Python, JavaScript, Java, TypeScript, ReactJS, Swift, HTML5 </dd>
+<dt>Software and Tools</dt>
+<dd>MongoDB, Visual Studios, AWS, Docker, Microsoft Office</dd>
+</dl>
 
 # Projects
 [gather - Networking for Diversity](https://gatherweb.vercel.app/)
