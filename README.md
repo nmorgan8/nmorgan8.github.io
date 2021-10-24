@@ -28,11 +28,11 @@ Data Structures, Algorithms, Artificial Intelligence, Cognitive Systems Design, 
 
 # Technical Skills
 
-**Languages**
+### **Languages**
 
 > Python, JavaScript, Java, C++, Swift
 
-**Software and Tools**
+### **Software and Tools**
 
 > Docker, AWS, ReactJS, Google Firebase, Flask, Relational/Document Databases, Microsoft Office
 
