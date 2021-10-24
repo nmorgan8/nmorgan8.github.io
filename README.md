@@ -38,9 +38,9 @@ Data Structures, Algorithms, Artificial Intelligence, Cognitive Systems Design, 
 
 # Projects
 
-[schedulion - NCAA Men's Basketball Scheduling](https://github.com/nmorgan8/schedulion)  
-[Medley - a "fruitful" take on a natural language programming language](https://github.com/nmorgan8/Medley/tree/main)  
-[gather - Networking for Diversity](https://gatherweb.vercel.app/)
+[**Schedulion** - NCAA Men's Basketball Scheduling](https://github.com/nmorgan8/schedulion)  
+[**Medley** - "fruitful" take on a natural language programming language](https://github.com/nmorgan8/Medley/tree/main)  
+[**Gather** - Networking for Diversity](https://gatherweb.vercel.app/)
 
 # Experience
 
