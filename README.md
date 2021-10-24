@@ -28,18 +28,27 @@ Data Structures, Algorithms, Artificial Intelligence, Cognitive Systems Design, 
 
 # Technical Skills
 
-<dl>
-<dt>Languages</dt>
-<dd>Python, JavaScript, Java, Swift, C </dd>
-<dt>Software and Tools</dt>
-<dd>Docker, AWS, Google Firebase, ReactJS, Flask, Relational/Document Databases, Microsoft Office</dd>
-</dl>
+**Languages**
+
+> Python, JavaScript, Java, C++, Swift
+
+**Software and Tools**
+
+> Docker, AWS, ReactJS, Google Firebase, Flask, Relational/Document Databases, Microsoft Office
 
 # Projects
 
+[schedulion - NCAA Men's Basketball Scheduling](https://github.com/nmorgan8/schedulion)  
+[Medley - a "fruitful" take on a natural language programming language](https://github.com/nmorgan8/Medley/tree/main)  
 [gather - Networking for Diversity](https://gatherweb.vercel.app/)
 
 # Experience
+
+### Cytokinetics
+
+**Informatics Consultant** &nbsp;|&nbsp; (_February 2021 - Present_)
+
+- anyone
 
 # Volunteering & Extracurriculars
 
