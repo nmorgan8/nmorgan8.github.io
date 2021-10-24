@@ -12,7 +12,8 @@ Results-oriented Computer Science major striving for an internship or research o
 
 #### **Awards & Honors**
 
-- 2nd Place HackerRank: Git Gud Competition
+- 3rd Place HackerRack: Git Gud Competition 2021
+- 2nd Place HackerRank: Git Gud Competition 2019
 - LMU Seaver College Dean’s List:
   - Fall 2018
   - Spring 2019
@@ -45,3 +46,6 @@ Data Structures, Algorithms, Artificial Intelligence, Cognitive Systems Design, 
 # Organizations
 
 # Contact Me
+
+Nicolas Morgan  
+<nicolaspmor@gmail.com> | 925.878.5913
