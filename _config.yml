@@ -1,8 +1,4 @@
 # Site
-remote_theme: sproogen/resume-theme
-plugins:
-- jekyll-remote-theme
-
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
