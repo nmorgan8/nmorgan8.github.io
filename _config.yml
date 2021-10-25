@@ -1,3 +1,4 @@
 remote_theme: longpdo/neumorphism
-title: Nick Morgan's Portfolio
+plugins:
+- jekyll-remote-theme
 baseurl: ""
