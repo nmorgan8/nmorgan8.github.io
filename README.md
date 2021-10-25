@@ -46,9 +46,21 @@ Data Structures, Algorithms, Artificial Intelligence, Cognitive Systems Design, 
 
 ### Cytokinetics
 
-**Informatics Consultant** - (_February 2021 - Present_)
+**Informatics Consultant** (_February 2021 - Present_)
 
-- anyone
+> anyone
+
+### Loyola Marymount University
+
+**Computer Science Teaching/Lab Assistant** (_February 2021 - Present_)
+
+> something
+
+### Cytokinetics
+
+**Informatics Intern** (_May 2019 - August 2019_)
+
+> Save me
 
 # Volunteering & Extracurriculars
 
