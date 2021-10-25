@@ -46,7 +46,7 @@ Data Structures, Algorithms, Artificial Intelligence, Cognitive Systems Design, 
 
 ### Cytokinetics
 
-**Informatics Consultant** &nbsp;|&nbsp; (_February 2021 - Present_)
+**Informatics Consultant** | (_February 2021 - Present_)
 
 - anyone
 
