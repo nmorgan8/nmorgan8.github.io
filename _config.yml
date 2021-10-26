@@ -86,7 +86,7 @@ content:
         title: Technical Skills
         description: |
           **Programming (or other) Languages**:
-          - Python, JavaScript, Java, C++, Swift, HTML5 (markdown), CSS (sheet style)
+          - Python, JavaScript, Java, C++, Swift, HTML5 (markup), CSS (sheet style)
 
           **Software & Tools**:
           - Docker, AWS, ReactJS, Google Firebase, Flask, Relational/Document Databases, RESTful architecture, Microsoft Office
