@@ -1,3 +1,6 @@
+# cli to run:
+# bundle exec jekyll serve
+
 # Site
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
@@ -75,6 +78,23 @@ content:
             - 2018 - 2021
           - 2nd Place HackerRanker: Git Gud Competition (2019 - open)
           - 3rd Place HackerRank: Git Gud Competition (2020 - upperclassmen)
+
+  - title: Skills & Related Coursework
+    layout: list
+    content:
+      - layout: top-left
+        title: Technical Skills
+        description: |
+          **Programming (or other) Languages**:
+          - Python, JavaScript, Java, C++, Swift, HTML5 (markdown), CSS (sheet style)
+
+          **Software & Tools**:
+          - Docker, AWS, ReactJS, Google Firebase, Flask, Relational/Document Databases, RESTful architecture, Microsoft Office
+
+      - layout: top-left
+        title: Related Coursework
+        description: |
+          Data Structures, Algorithms, Artificial Intelligence, Cognitive Systems Design, Programming Languages, Databases, Networks and Internets, Computer Systems Organization, Interaction Design, Theory of Computation, Linear Algebra, Calculus (I, II, III), Methods of Proofs, Discrete Methods, Complex Analysis
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
