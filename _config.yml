@@ -53,7 +53,7 @@ about_profile_image: images/profile-pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nick and I'm currently a Informatics Consultant at Cytokinetics. I am a results-driven Computer Science major currently attending Loyola Marymount University. Aiming for an job or research opportunity that will allow me to utilize my attention to detail, problem-solving, and communication skills to further develop my abilities in the field of computer science.
 
-  I am most skilled in: <mark>Python</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark> and making dad jokes.
 
   If you would like to check out my resume you can click the file icon at top right, or check it out [here](https://docs.google.com/document/d/1XO_dI7gHJ6DNKQe6vQjQK19WlGDvCYlo/edit?usp=sharing&ouid=109034075234392100349&rtpof=true&sd=true)
 
@@ -103,14 +103,13 @@ content:
       - layout: top-left
         title: Cytokinetics
         link: https://cytokinetics.com/
-        # link_text: boringcompany.com
         sub_title: Informatics Consultant
         caption: February 2021 - Present
         quote: >
           Cytokinetics is committed to our mission of developing potential medicines that may improve the healthspan of people living with cardiovascular and neuromuscular diseases of impaired muscle function.
         description: | # this will include new lines to allow paragraphs
-          - Migrated legacy, on-premise <mark>Oracle Database</mark> to new <mark>AWS</mark> Postgres Aurora
-          - Created new data pipeline scripts in <mark>Python</mark> to replace legacy Oracle Pipeline Pilot.
+          - Migrated legacy, on-premise <mark>Oracle Database</mark> to new <mark>AWS</mark> Postgres Aurora to help company with building relocation and future cloud scalability.
+          - Created new data pipeline scripts using <mark>Python</mark> to improve efficiency for the Scientists data entry pipeline.
 
       - layout: top-left
         title: Loyola Marymount KECK (CS) Lab
@@ -120,18 +119,22 @@ content:
           "Keck is not a place, it is a people" - Random Keck Regular
         description: |
           - Spring 2021: Algorithms (CMSI 282)
-            - Held tutoring session remotely on ZOOM to assist sophomores and juniors taking the course
+            - Held tutoring session remotely on ZOOM to assist sophomores and juniors learning fundamentals:
+              - <mark>Dynamic Programming, BFS, DFS, A* Search, Mini-max Search, Memoization, CSPs, etc</mark>
           - Fall 2021: Computer Programming and Lab (CMSI 1010)
-            - Held tutoring sessions in person in CS Lab on campus and help students from all class (CP&L, DS, AI, etc.) who need help learning material
+            - Held tutoring sessions in person in CS (Keck) Lab on campus and help students from all class (CP&L, DS, AI, etc.) who need help learning material
+            - Attended in person classes for two different sections to help students work on assignments
 
       - layout: top-left
         title: Cytokinetics
         link: https://cytokinetics.com/
         sub_title: Informatics Intern
-        caption: May 2019 - August 2019
+        caption:
+          May 2019 - August 2019
+          # - Used <mark>Python</mark> to program a <mark>Raspberry Pi</mark> with a camera module that was used to capture images of for data collection and analysis to streamline the drug discovery process.
         description: | # this will include new lines to allow paragraphs
-          - Used <mark>Python</mark> to program a <mark>Raspberry Pi</mark> with a camera module that was used to capture images of for data collection and analysis to streamline the drug discovery process. 
-          - Started updated-prototyping for legacy inventory management database system.
+          - Programmed proof-of-concept visual monitoring system, using <mark>Python</mark> and <mark>Raspbery Pi</mark> with a camera module, to provide the Scientists a 24/7 visual imaging to allow scientists to constantly monitor test subjects health and condition.
+          - Started prototyping for updating current, legacy inventory management systems to a web application using <mark>Django</mark> and <mark>AWS</mark>.
 
       - layout: top-left
         title: Mountain Mike's Pizza
@@ -158,7 +161,11 @@ content:
         quote: >
           NCAA Men's Basketball Ranking Prediction and Scheduling Application
         description: | # this will include new lines to allow paragraphs
-          A system that can assist LMU's basketball team and coaches in constructing the best schedule of opponent teams for LMU's basketball season.
+          - A system that can assist LMU's basketball team and coaches in constructing the best schedule of opponent teams for LMU's basketball season.
+          - Schedulion is a web application that will allow coaches to input their "coaching preferences", for ML model features, as well as a dashboard and schedule building in app features.
+          - Model 1: Scrapes NCAA mens basketball team stats to train model that will predict a teams overall ranking value.
+          - Model 2: Uses teams ranking value and "coaches preferences" to train model that will rank/value teams based on which teams are our statistically "most optimal" matchup.
+          - Main Technologies used: <mark>React</mark> for frontend, <mark>Flask</mark> for backend/API, <mark>Google Firestore</mark> for persistent storage, <mark>Scikit</mark> for ML models.
 
       - layout: top-middle
         title: Medley
@@ -167,7 +174,9 @@ content:
         quote: >
           A "fruitful" take on a natural language programming language
         description: |
-          Medley is a fruitful take on a programming language, with strengths in both enjoyability and ease of use. Medley employs a more natural language approach to programming, all while having a unique theme that makes it both easy and fun to use. The target is for either younger or newer beginning programmers, where a lot of the more complex concepts of programming is simplified by making it similar to English.
+          - Medley is a fruitful take on a programming language, using <mark>JavaScript</mark> under the hood, with strengths in both enjoyability and ease of use. 
+          - Medley employs a more natural language approach to programming, all while having a unique theme that makes it both easy and fun to use. 
+          - The target is for either younger or newer beginning programmers, where a lot of the more complex concepts of programming is simplified by making it similar to English.
 
       - layout: top-middle
         title: gather
@@ -180,7 +189,8 @@ content:
         quote: >
           gather is a social media platform that promotes inclusivity, specifically for underrepresented communities.
         description: |
-          Gather creates a safe space for there groups to openly communicate and share advice with each out. Gather is only a template and prototype implementation for a potential future full-stack web application.
+          - Gather creates a safe space for there groups to openly communicate and share advice with each out. 
+          - Gather is only a template and prototype implementation for a potential future full-stack web application, using <mark>React</mark>
 
   - title: A Little More About Me
     layout: text
@@ -189,10 +199,9 @@ content:
       - Blockchain/Web3
       - Skiing
       - Gaming
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/images/profile-pic.jpeg "Trees")
+# - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+# Look at this cool image
+# ![Trees](/images/profile-pic.jpeg "Trees")
 
 # Footer
 footer_show_references: true
