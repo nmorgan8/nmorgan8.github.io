@@ -83,9 +83,9 @@ content:
       - layout: top-left
         title: Extracurriculars
         description: |
-          - During my time at LMU I learnt most of my key skills that have I have taken through my career such as communication, teamwork, and working to tight deadlines. 
-          - I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          - I spent a lot of my free time as in the KECK (CS) Lab and Basketball Gym as well as being apart of *Ski and Snowboard Club*
+          - KECK (CS) Lab - blurb
+          - Basketball Gym - blurb
+          - *Ski and Snowboard Club* - blurb
 
   - title: Skills & Related Coursework
     layout: list
