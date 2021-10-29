@@ -12,7 +12,7 @@ version: 2
 name: Nicolas Morgan
 title: BSE Computer Science & Minor Pure Mathematics
 email: nicolaspmor@gmail.com
-website: github.com/nmorgan8/nmorgan8.github.io
+# website: github.com/nmorgan8/nmorgan8.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
