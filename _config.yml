@@ -182,7 +182,7 @@ content:
         quote: >
           A "fruitful" take on a natural language programming language
         description: |
-          - Medley is a fruitful take on a programming language, using <mark>JavaScript</mark> under the hood, with strengths in both enjoyability and ease of use. 
+          - Medley is a fruitful take on a programming language, using <mark>JavaScript</mark> under the hood. Its with strengths in both enjoyability and ease of use. 
           - Medley employs a more natural language approach to programming, all while having a unique theme that makes it both easy and fun to use. 
           - The target is for either younger or newer beginning programmers, where a lot of the more complex concepts of programming is simplified by making it similar to English.
 
