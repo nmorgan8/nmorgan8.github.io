@@ -184,7 +184,7 @@ content:
         description: |
           - Medley is a "fruit themed" take on a programming language, using <mark>JavaScript</mark> under the hood. Its with strengths in both enjoyability and ease of use. 
           - Medley employs a more natural language approach to programming, all while having a unique theme that makes it both easy and fun to use. 
-          - The target is for either younger or newer beginning programmers, where a lot of the more complex concepts of programming is simplified by making it similar to English.
+          - Its target audience is with for either younger or beginner programmers, because it simplifies more complex concepts of programming is simplified by making it similar to English.
 
       - layout: top-middle
         title: gather
