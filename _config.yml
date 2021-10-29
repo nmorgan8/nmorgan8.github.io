@@ -173,7 +173,7 @@ content:
           - It's a system that can assist LMU's basketball team and coaches with constructing the best schedule for LMU men's basketball season, in terms of optimizing their NCAA tournament ranking.
           - Model 1: Scrapes NCAA mens basketball team stats to train the model that predicts a teams overall ranking value.
           - Model 2: Uses teams' ranking value, from Model 1, and "coaches preferences" to train Model 2 that will rank/value teams based on which teams that are LMU's statistically "most optimal" matchup.
-          - Main Technologies used: <mark>React</mark> for frontend, <mark>Flask</mark> for backend/API, <mark>Google Firestore</mark> for persistent storage, <mark>Scikit</mark> for ML models.
+            - Main Technologies used: <mark>React</mark> for frontend, <mark>Flask</mark> for backend/API, <mark>Google Firestore</mark> for persistent storage, <mark>Scikit</mark> for ML models.
 
       - layout: top-middle
         title: Medley
