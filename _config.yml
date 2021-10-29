@@ -115,8 +115,9 @@ content:
         quote: >
           Cytokinetics is committed to our mission of developing potential medicines that may improve the healthspan of people living with cardiovascular and neuromuscular diseases of impaired muscle function.
         description: | # this will include new lines to allow paragraphs
-          - Migrated legacy, on-premise <mark>Oracle Database</mark> to new <mark>AWS</mark> Postgres Aurora to help company with building relocation and future cloud scalability.
-          - Created new data pipeline scripts using <mark>Python</mark> to improve efficiency for the Scientists data entry pipeline.
+          - Migrated legacy, on-premise <mark>Oracle Database</mark> to new <mark>AWS</mark> Postgres Aurora to help company with future cloud scalability.
+          - Created new data pipeline scripts using <mark>Python</mark> to replace current <mark>Oracle Pipeline Pilot</mark>.
+            - Coded scripts to replace Cytokinetics current data pipeline, that allow Scientists to transfer and store experimental data to the newly created <mark>AWS</mark> database.
 
       - layout: top-left
         title: Loyola Marymount KECK (CS) Lab
