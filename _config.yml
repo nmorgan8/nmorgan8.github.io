@@ -117,7 +117,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Migrated legacy, on-premise <mark>Oracle Database</mark> to new <mark>AWS</mark> Postgres Aurora to help company with future cloud scalability.
           - Created new data pipeline using <mark>Python</mark> to replace current <mark>Oracle Pipeline Pilot</mark>.
-            - Coded scripts to replace Cytokinetics' current data pipeline that allowed for Scientists to transfer and store experimental data in the newly created <mark>AWS</mark> database.
+            - Coded scripts to replace Cytokinetics' current data pipeline, which allowed Scientists to transfer and store experimental data in the newly created <mark>AWS</mark> database.
 
       - layout: top-left
         title: Loyola Marymount KECK (CS) Lab
