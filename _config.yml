@@ -171,8 +171,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Schedulion is a web application that will allow coaches to input their "coaching preferences", for ML model features, as well as a dashboard and schedule building in app features.
           - It's a system that can assist LMU's basketball team and coaches with constructing the best schedule for LMU men's basketball season, in terms of optimizing their NCAA tournament ranking.
-          - Model 1: Scrapes NCAA mens basketball team stats to train model that will predict a teams overall ranking value.
-          - Model 2: Uses teams ranking value and "coaches preferences" to train model that will rank/value teams based on which teams are our statistically "most optimal" matchup.
+          - Model 1: Scrapes NCAA mens basketball team stats to train the model that predicts a teams overall ranking value.
+          - Model 2: Uses teams' ranking value, from Model 1, and "coaches preferences" to train Model 2 that will rank/value teams based on which teams that are LMU's statistically "most optimal" matchup.
           - Main Technologies used: <mark>React</mark> for frontend, <mark>Flask</mark> for backend/API, <mark>Google Firestore</mark> for persistent storage, <mark>Scikit</mark> for ML models.
 
       - layout: top-middle
