@@ -53,7 +53,9 @@ about_profile_image: images/profile-pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nick and I am graduating this Spring 2022 from Loyola Marymount University. I am also currently working as an Informatics Consultant at Cytokinetics, cyto blurb.
 
-  I am a results-driven Computer Science major aiming for an full-time job opportunity that will allow me to utilize my attention to detail, problem-solving, and communication skills to further develop my abilities in the field of computer science.
+  I am a results-driven Computer Science major aiming for an full-time job opportunity that will give me exposure 
+
+  utilize my attention to detail, problem-solving, and communication skills to further develop my abilities in the field of computer science.
 
   I am most skilled in: <mark>Python</mark> and making dad jokes.
 
