@@ -47,6 +47,8 @@ additional_links:
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
+# attention to detail, problem-solving, and communication skills
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile-pic.jpeg
@@ -55,7 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am a results-driven Computer Science major aiming for an full-time job opportunity that will give me exposure to the tech industry and allow me to further develop my skills as a computer scientist
 
-# attention to detail, problem-solving, and communication skills
 
   I am most skilled in: <mark>Python</mark> and making dad jokes.
 
