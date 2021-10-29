@@ -116,8 +116,8 @@ content:
           Cytokinetics is committed to our mission of developing potential medicines that may improve the healthspan of people living with cardiovascular and neuromuscular diseases of impaired muscle function.
         description: | # this will include new lines to allow paragraphs
           - Migrated legacy, on-premise <mark>Oracle Database</mark> to new <mark>AWS</mark> Postgres Aurora to help company with future cloud scalability.
-          - Created new data pipeline scripts using <mark>Python</mark> to replace current <mark>Oracle Pipeline Pilot</mark>.
-            - Coded scripts to replace Cytokinetics current data pipeline, that allow Scientists to transfer and store experimental data to the newly created <mark>AWS</mark> database.
+          - Created new data pipeline using <mark>Python</mark> to replace current <mark>Oracle Pipeline Pilot</mark>.
+            - Coded scripts to replace Cytokinetics' current data pipeline that allowed for Scientists to transfer and store experimental data in the newly created <mark>AWS</mark> database.
 
       - layout: top-left
         title: Loyola Marymount KECK (CS) Lab
@@ -127,7 +127,7 @@ content:
           "Keck is not a place, it is a people" - Random Keck Regular
         description: |
           - Spring 2021: Algorithms (CMSI 282)
-            - Held office hours remotely on ZOOM, 6 hours per week, to coach and assist sophomores and juniors learning fundamental algorithmic techniques:
+            - Held remote office hours on ZOOM, 6 hours per week, to coach and assist sophomores and juniors learning fundamental algorithmic techniques:
               - <mark>Dynamic Programming, BFS, DFS, A* Search, Mini-max Search, Memoization, CSPs, etc</mark>
           - Fall 2021: Computer Programming and Lab (CMSI 1010)
             - Held tutoring sessions in person in CS (Keck) Lab on campus and help students from all class (CP&L, DS, AI, etc.) who need help learning material
