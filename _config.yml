@@ -197,8 +197,9 @@ content:
         quote: >
           gather is a social media platform that promotes inclusivity, specifically for underrepresented communities.
         description: |
-          - Gather creates a safe space for these groups to openly communicate and share advice with each other. 
-          - Gather is only a template and prototype implementation for a potential future full-stack web application, using <mark>React</mark>
+          - gather creates a safe space for these groups to openly communicate and share advice with each other. 
+          - gather is a prototype for a potential future full-stack web application.
+            - Main Technology Used: <mark>React</mark>
 
   - title: A Little More About Me
     layout: text
