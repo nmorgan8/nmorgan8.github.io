@@ -102,12 +102,12 @@ content:
           - Python, JavaScript, Java, C++, Swift, Solidity, HTML5 (markup), CSS (sheet style)
 
           **Software & Tools**:
-          - Docker, AWS, ReactJS, Google Firebase, Flask, Relational/Document Databases, RESTful architecture, Microsoft Office
+          - Docker, AWS, ReactJS, Google Firebase, Flask, SQL/noSQL Databases, RESTful architecture, Microsoft Office
 
       - layout: top-left
         title: Related Coursework
         description: |
-          Data Structures, Algorithms, Artificial Intelligence, Cognitive Systems Design, Programming Languages, Databases, Networks and Internets, Computer Systems Organization, Interaction Design, Theory of Computation, Linear Algebra, Calculus (I, II, III), Methods of Proofs, Discrete Methods, Complex Analysis
+          Data Structures, Algorithms, Natural Language Processing, Artificial Intelligence, Cognitive Systems Design, Data Science, Software Architecture, Programming Languages, Databases, Networks and Internets, Computer Systems Organization, Interaction Design, Theory of Computation, Linear Algebra, Calculus (I, II, III), Methods of Proofs, Discrete Methods, Complex Analysis
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -179,6 +179,28 @@ content:
           - Model 1: Scrapes NCAA mens basketball team stats to train the model that predicts a teams overall ranking value.
           - Model 2: Uses teams' ranking value, from Model 1, and "coaches preferences" to train Model 2 that will rank/value teams based on which teams that are LMU's statistically "most optimal" matchup.
             - Main Technologies used: <mark>React</mark> for frontend, <mark>Flask</mark> for backend/API, <mark>Google Firestore</mark> for persistent storage, <mark>Scikit</mark> for ML models, <mark>Vercel & Heroku</mark> for deployment.
+
+      - layout: top-middle
+        title: Poker Data Analysis
+        link: https://github.com/nmorgan8/Poker
+        link_text: Click here for Github
+        quote: >
+          The Poker data analysis to run biases and correlation between starting hands and the outcome of player.
+        description: |
+          - Poker data analysis model uses an open-source dataset found on Kaggle.
+          - Supervised Learning, Linear Regression and a Multi-layer Perceptron Neural Network to calculate a players expected net profit/loss based on their specific play.
+          - Unsupervised Learning, Kmeans to find correlations between starting hands and the net outcome.
+          
+      - layout: top-middle
+        title: Fake News Classification - Project Green Octopus
+        link: https://github.com/lmu-mandy/projects-green-octopus
+        link_text: Click here for Github
+        quote: >
+          Fake News Classifier to process and determine if a news article is from a real source or fake news.
+        description: |
+          - Fake news data found from an open-source dataset on Kaggle.
+          - Baseline Logisitic Regression classifier trained on titles and text of articles of both real and fake
+          - Feed-Forward Neural Network built in python using <mark>pytorch</mark>
 
       - layout: top-middle
         title: Medley
