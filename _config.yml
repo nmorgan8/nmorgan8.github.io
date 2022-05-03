@@ -167,7 +167,7 @@ content:
         additional_links:
         - title: sproogen/modern-resume-theme
           icon: fab fa-github
-          url: ttps://github.com/nmorgan8/schedulion
+          url: https://github.com/nmorgan8/schedulion
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
