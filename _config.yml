@@ -36,7 +36,7 @@ github_username: nmorgan8
 additional_links:
   - title: Resume
     icon: far fa-file
-    url: https://docs.google.com/document/d/1XO_dI7gHJ6DNKQe6vQjQK19WlGDvCYlo/edit?usp=sharing&ouid=109034075234392100349&rtpof=true&sd=true
+    url: https://docs.google.com/document/d/1QSlPpt4AV6JLnMBARg-kmudeezRDqTa8/edit?usp=sharing&ouid=109034075234392100349&rtpof=true&sd=true
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -69,7 +69,7 @@ content:
         title: Loyola Marymount University
         caption: 2022 - 2023
         sub_title: MS Computer Science
-      
+
       - layout: top-middle
         title: Loyola Marymount University
         caption: 2018 - 2022
@@ -165,9 +165,9 @@ content:
         link: https://schedulion.vercel.app
         link_text: PROJECT LINK HERE
         additional_links:
-        - title: sproogen/modern-resume-theme
-          icon: fab fa-github
-          url: https://github.com/nmorgan8/schedulion
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/nmorgan8/schedulion
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -190,7 +190,7 @@ content:
           - Poker data analysis model uses an open-source dataset found on Kaggle.
           - Supervised Learning, Linear Regression and a Multi-layer Perceptron Neural Network to calculate a players expected net profit/loss based on their specific play.
           - Unsupervised Learning, Kmeans to find correlations between starting hands and the net outcome.
-          
+
       - layout: top-middle
         title: Fake News Classification - Project Green Octopus
         link: https://github.com/lmu-mandy/projects-green-octopus
