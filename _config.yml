@@ -54,12 +54,12 @@ additional_links:
 about_profile_image: images/profile-pic.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nick and I am graduating, with a MS, this Spring 2023 from Loyola Marymount University. 
-  I am currently working as an Adjunct Professor at Loyola Marymount University while completing the 4+1 program for a Masters. 
+  I am currently working as an Adjunct Professor at Loyola Marymount University while completing the 4+1 program for a Masters in Computer Science. 
   Cytokinetics is committed to their mission of developing potential medicines that may improve the healthspan of people living with cardiovascular and neuromuscular diseases of impaired muscle function.
 
   I am a results-driven Computer Science major aiming for an full-time job opportunity that will give me exposure to the tech industry and allow me to further develop my skills as a computer scientist.
 
-  I am most skilled in: <mark>Python, Data Science, and Machine Learning</mark> and making dad jokes.
+  I am most skilled in: <mark>Python, Data Science, and Machine/Deep Learning</mark> and making dad jokes.
 
   If you would like to check out my resume you can click the file icon at top right, or check it out [here](https://docs.google.com/document/d/1XO_dI7gHJ6DNKQe6vQjQK19WlGDvCYlo/edit?usp=sharing&ouid=109034075234392100349&rtpof=true&sd=true)
 
@@ -82,15 +82,17 @@ content:
       - layout: top-left
         title: Awards & Honors
         description: |
+          - Magna Cum Laude
           - LMU Seaver College of Science and Engineering Dean's List:
-            - 2018 - 2021
+            - 2018 - 2022
           - 2nd Place HackerRanker: Git Gud Competition (2019 - open)
           - 3rd Place HackerRank: Git Gud Competition (2020 - upperclassmen)
+          - 3rd Place HackerRank: Git Gud Competition (2021 - upperclassmen)
           - LMU Achievement Award
       - layout: top-left
         title: Extracurriculars
         description: |
-          - KECK (CS) Lab - blurb
+          - KECK (CS) Lab - TA/Lab Assistant, helped students complete course work and understand the basic programming paradigms, data structures, and algorithms
           - Basketball Gym - blurb
           - *Ski and Snowboard Club* - blurb
 
@@ -104,12 +106,12 @@ content:
           - Python, JavaScript, Java, C++, Swift, Solidity, HTML5 (markup), CSS (sheet style)
 
           **Software & Tools**:
-          - Docker, AWS, ReactJS, Google Firebase, Flask, SQL/noSQL Databases, RESTful architecture, Microsoft Office
+          - TensorFlow, SciKit/Sklearn, PyTorch, Numpy, Pandas, Docker, AWS, ReactJS, Google Firebase, Django, Flask, SQL/noSQL Databases, RESTful architecture, Microsoft Office
 
       - layout: top-left
         title: Related Coursework
         description: |
-          Data Structures, Algorithms, Natural Language Processing, Artificial Intelligence, Cognitive Systems Design, Data Science, Software Architecture, Programming Languages, Databases, Networks and Internets, Computer Systems Organization, Interaction Design, Theory of Computation, Linear Algebra, Calculus (I, II, III), Methods of Proofs, Discrete Methods, Complex Analysis
+          Machine Learning, Natural Language Processing, Data Science, Multi-Agent Systems and Distributed AI, Artificial Intelligence, Cognitive Systems Design, Data Structures, Algorithms, Natural Language Processing, Software Architecture, Programming Languages, Databases, Networks and Internets, Computer Systems Organization, Interaction Design, Theory of Computation, Linear Algebra, Calculus (I, II, III), Methods of Proofs, Discrete Methods, Complex Analysis
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
