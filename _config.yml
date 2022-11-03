@@ -72,12 +72,12 @@ content:
       - layout: top-middle
         title: Loyola Marymount University
         caption: 2022 - 2023
-        sub_title: MS Computer Science - GPA: 4.00
+        sub_title: MS Computer Science | GPA - 4.00
 
       - layout: top-middle
         title: Loyola Marymount University
         caption: 2018 - 2022
-        sub_title: BS Computer Science & Minor Pure Mathematics - GPA: 3.81
+        sub_title: BS Computer Science & Minor Pure Mathematics | GPA - 3.81
         quote: >
           "Education breeds confidence. Confidence breeds hope. Hope breeds peace." - Confucius
 
