@@ -118,7 +118,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: top-left
+      - layout: top-left
         title: Loyola Marymount University
         caption: August 2022 - Present
         sub_title: Adjunct Professor
@@ -129,7 +129,7 @@ content:
             - Presented and helped design two, hour and a half sessions per week to teach the basics paradigms and techniques
             - Taught data structures, basic algorithms, recursion, and object-oriented programming to undergraduate students
             
-     - layout: top-left
+      - layout: top-left
         title: Loyola Marymount University
         caption: August 2022 - Present
         sub_title: Graduate Researcher
