@@ -187,7 +187,7 @@ content:
           May 2019 - August 2019
           # - Used <mark>Python</mark> to program a <mark>Raspberry Pi</mark> with a camera module that was used to capture images of for data collection and analysis to streamline the drug discovery process.
         description: | # this will include new lines to allow paragraphs
-          - Programmed proof-of-concept visual monitoring system, using <mark>Python</mark> and <mark>Raspbery Pi</mark> with a camera module, to provide the Scientists a 24/7 visual imaging to allow scientists to constantly monitor test subjects health and condition.
+          - Programmed proof-of-concept visual monitoring system, using <mark>Python, Raspbery Pi, OpenCV, and SciKit-Learn</mark> with a camera module, to provide the Scientists a 24/7 visual imaging to allow scientists to constantly monitor test subjects health and condition.
           - Started prototyping for updating current, legacy inventory management systems to a web application using <mark>Django</mark> and <mark>AWS</mark>.
 
       - layout: top-left
