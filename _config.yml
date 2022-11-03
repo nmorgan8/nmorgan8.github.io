@@ -51,7 +51,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile-pic.jpeg
+about_profile_image: images/profile_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nick and I am graduating, with a MS, this Spring 2023 from Loyola Marymount University. 
   I am currently working as an Adjunct Professor at Loyola Marymount University while completing the 4+1 program for a Masters in Computer Science. 
