@@ -108,7 +108,7 @@ content:
           - Python, JavaScript, Java, C++, Swift, Solidity, HTML5 (markup), CSS (sheet style)
 
           **Software & Tools**:
-          - TensorFlow, SciKit/Sklearn, PyTorch, Numpy, Pandas, Docker, AWS, ReactJS, Google Firebase, Django, Flask, SQL/noSQL Databases, RESTful architecture, Microsoft Office
+          - TensorFlow, SciKit/Sklearn, PyTorch, Numpy, Pandas, Docker, AWS (SageMaker, EC2, RDS, DynamoDB), ReactJS, NodeJS, Google Firebase, Django, Flask, SQL/noSQL Databases, RESTful architecture, Microsoft Office
 
       - layout: top-left
         title: Related Coursework
@@ -118,16 +118,51 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: top-left
+        title: Loyola Marymount University
+        caption: August 2022 - Present
+        sub_title: Adjunct Professor
+        quote: >
+          "99% of the ethical life is being kind to people." - James Martin, S.J. 
+        description: |
+          - Fall 2022: Computer Programming and Lab (CMSI 1010)
+            - Presented and helped design two, hour and a half sessions per week to teach the basics paradigms and techniques
+            - Taught data structures, basic algorithms, recursion, and object-oriented programming to undergraduate students
+            
+     - layout: top-left
+        title: Loyola Marymount University
+        caption: August 2022 - Present
+        sub_title: Graduate Researcher
+        description: |
+          - Generative Chatbot
+            - Design and implementation of two baseline models, a rule-based approach and information retrieval (IR)-based approach, then an encoder-decoder model to create generative automatic chatbot responses
+          - USDA Model Solutions Competition 
+            - Identify new approaches to linking Department of Agriculture (USDA) Economic Research Service (ERS)’s Food and Nutrient Database for Dietary Studies (FNDDS) to Information Resources, Inc. (IRI) retail store data in producing the Purchase to Plate Crosswalk (PPC). 
+            
+      - layout: top-left
+        title: Travelers Insurance
+        caption: May 2022 - August 2022
+        sub_title: Data Scientist/Machine Learning Intern
+        quote: >
+          Travelers takes on the risk and provides the coverage you need to protect the things that are important to you — your home, your car, your valuables and your business — so you don’t have to worry. We have been around for more than 165 years and have earned a reputation as one of the best property casualty insurers in the industry because we take care of our customers.
+        description: |
+          - Created a bidirectional LSTM neural network, using <mark>TensorFlow</mark>, to predict insurance claim severity
+          - Created two baseline models, Logistic Regression and Naive Bayes (using <mark>SciKit-Learn and Numpy</mark>), to compare advanced Neural Network
+          - Used NLP to analyze 100k+ claims with 100+ documents per claim to enhance efficiency of claim professionals
+          - Used <mark>AWS SageMaker</mark> environment to implement, modify, and translate between dev and prod environments
+
+         
       - layout: top-left
         title: Cytokinetics
         link: https://cytokinetics.com/
-        sub_title: Informatics Consultant
-        caption: February 2021 - Present
+        sub_title: Data Scientist - Contractor
+        caption: February 2021 - April 2022
         quote: >
           Cytokinetics is committed to our mission of developing potential medicines that may improve the healthspan of people living with cardiovascular and neuromuscular diseases of impaired muscle function.
         description: | # this will include new lines to allow paragraphs
+          - Analyzed and processed experimental data to find relationships between novel compounds and effects, using <mark>SciKit-Learn<mark>
           - Migrated legacy, on-premise <mark>Oracle Database</mark> to new <mark>AWS</mark> Postgres Aurora to help company with future cloud scalability.
-          - Created new data pipeline using <mark>Python</mark> to replace current <mark>Oracle Pipeline Pilot</mark>.
+          - Created new data pipeline using <mark>Numpy and Pandas</mark> to replace current <mark>Oracle Pipeline Pilot</mark>.
             - Coded scripts to replace Cytokinetics' current data pipeline, which allowed Scientists to transfer and store experimental data in the newly created <mark>AWS</mark> database.
 
       - layout: top-left
@@ -147,7 +182,7 @@ content:
       - layout: top-left
         title: Cytokinetics
         link: https://cytokinetics.com/
-        sub_title: Informatics Intern
+        sub_title: Software Engineering Intern
         caption:
           May 2019 - August 2019
           # - Used <mark>Python</mark> to program a <mark>Raspberry Pi</mark> with a camera module that was used to capture images of for data collection and analysis to streamline the drug discovery process.
