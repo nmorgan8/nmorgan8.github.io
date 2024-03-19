@@ -10,7 +10,7 @@ version: 2
 
 # Personal info
 name: Nicolas Morgan
-title: MS Computer Science Student | BS Computer Science & Minor Pure Mathematics
+title: MS Computer Science | BS Computer Science & Minor Pure Mathematics
 email: nicolaspmor@gmail.com
 # website: github.com/nmorgan8/nmorgan8.github.io
 
@@ -36,7 +36,7 @@ github_username: nmorgan8
 additional_links:
   - title: Resume
     icon: far fa-file
-    url: https://docs.google.com/document/d/1QSlPpt4AV6JLnMBARg-kmudeezRDqTa8/edit?usp=sharing&ouid=109034075234392100349&rtpof=true&sd=true
+    url: https://drive.google.com/file/d/18A_m0SmdiMv6lVgNRn6pW9rHaH9VN96g/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -53,15 +53,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nick and I am graduating, with a MS, this Spring 2023 from Loyola Marymount University. 
-  I am currently working as an Adjunct Professor at Loyola Marymount University while completing the 4+1 program for a Masters in Computer Science. 
-  I previously interned at Travelers Insurance leading a project to develop a novel NLP Deep Learning Neural Network, currently used in production, that predicts various levels of insurance claim severity. Before I was working as an Informatics Contractor at Cytokinetics.
-  
-  Cytokinetics is committed to their mission of developing potential medicines that may improve the healthspan of people living with cardiovascular and neuromuscular diseases of impaired muscle function.
+  Hi, my name's Nick and I graduated, with a MS, in Spring 2023 from Loyola Marymount University. 
+  I currently work at Travelers Insurance as an Associate Data Scientist where I had lead a project to develop a novel NLP Deep Learning Neural Network, currently used in production, that predicts various levels of insurance claim severity and currently develop and implement pricing models for countrywide personal and property insurance pricing.
+  I concurrently work at a NSF SBIR Phase 1 research startup, MealMate Inc, as the first engineer hired working on primarily on the LLM-based chatbot, initial IOS application desgin and implementation, and AWS backend deployment and production.
+  I previously worked as an Adjunct Professor at Loyola Marymount University while completing my Masters in Computer Science with an emphasis in Machine Learning and AI. 
 
-  I am a results-driven Computer Science major aiming for an full-time job opportunity that will give me exposure to the tech industry and allow me to further develop my skills as a computer scientist.
-
-  I am most skilled in: <mark>Python, Data Science, and Machine/Deep Learning</mark> and making dad jokes.
+  I am most skilled in: <mark>Python, Machine Learning, AI, and Data Science</mark> and making dad jokes.
 
   If you would like to check out my resume you can click the file icon at top right, or check it out [here](https://docs.google.com/document/d/1XO_dI7gHJ6DNKQe6vQjQK19WlGDvCYlo/edit?usp=sharing&ouid=109034075234392100349&rtpof=true&sd=true)
 
@@ -95,8 +92,8 @@ content:
         title: Extracurriculars
         description: |
           - KECK (CS) Lab - TA/Lab Assistant, helped students complete course work and understand the basic programming paradigms, data structures, and algorithms
-          - Basketball Gym - blurb
-          - *Ski and Snowboard Club* - blurb
+          - LMU ACM - Loyola Marymount Association for Computing Machinery club member
+          - Ski and Snowboard Club - Helped facilited and organize group transportation and trip planning for club members
 
   - title: Skills & Related Coursework
     layout: list
@@ -105,40 +102,65 @@ content:
         title: Technical Skills
         description: |
           **Programming (or other) Languages**:
-          - Python, JavaScript, Java, C++, Swift, Solidity, HTML5 (markup), CSS (sheet style)
+          - Python, Swift, JavaScript, Java, C++, Solidity
 
           **Software & Tools**:
-          - TensorFlow, SciKit/Sklearn, PyTorch, Numpy, Pandas, Docker, AWS (SageMaker, EC2, RDS, DynamoDB), ReactJS, NodeJS, Google Firebase, Django, Flask, SQL/noSQL Databases, RESTful architecture, Microsoft Office
+          - TensorFlow, PyTorch, scikit-learn, PyTorch, Numpy, Pandas, Docker, Flask, AWS (SageMaker, EC2, Lambda, RDS, DynamoDB), ReactJS, NodeJS, Google Firebase, Django, SQL/noSQL Databases, RESTful architecture, Microsoft Office
 
       - layout: top-left
         title: Related Coursework
         description: |
-          Machine Learning, Natural Language Processing, Data Science, Multi-Agent Systems and Distributed AI, Artificial Intelligence, Cognitive Systems Design, Data Structures, Algorithms, Natural Language Processing, Software Architecture, Programming Languages, Databases, Networks and Internets, Computer Systems Organization, Interaction Design, Theory of Computation, Linear Algebra, Calculus (I, II, III), Methods of Proofs, Discrete Methods, Complex Analysis
+          Machine Learning, Artificial Intelligence, Multi-Agent Systems and Distributed AI, Natural Language Processing, Cognitive Systems Design, Data Science, Data Structures, Algorithms, Natural Language Processing, Software Architecture, Programming Languages, Databases, Networks and Internets, Computer Systems Organization, Interaction Design, Theory of Computation, Linear Algebra, Calculus (I, II, III), Methods of Proofs, Discrete Methods, Complex Analysis
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
+        title: MealMate, Inc.
+        caption: March 2023 - Present
+        sub_title: Software Engineer
+        quote: >
+          Easily create a better Diet Tracking Experience for everyone, anywhere
+        description: |
+          - Collaborated closely with the co-founders to define the product roadmap, prioritize features, and architected the frontend, backed, and machine learning AI systems
+          - Designed and implemented login and initial pages with functional features for the MVP IOS application
+          - Designed MVP and AI food recommender systems, enabling accurate and semantically relevant meal recommendations
+          - Responsible for the deployment and maintenance of AWS production server for IOS application backend services
+          - Designed and trained machine learning models for meal recommendations, resulting in high performance and accuracy
+
+      - layout: top-left
+        title: Travelers Insurance
+        caption: September 2023 - Present
+        sub_title: Data Scientist
+        quote: >
+          Travelers takes on the risk and provides the coverage you need to protect the things that are important to you — your home, your car, your valuables and your business — so you don’t have to worry. We have been around for more than 165 years and have earned a reputation as one of the best property casualty insurers in the industry because we take care of our customers.
+        description: |
+          - Implemented DGLM to model and predict home insurance premiums for dwellings across the Northeast region
+          - Developed and implemented new factors and added variables for condo modeling to allow for more accurate premiums
+          - Spearheaded implementation of Microsoft Copilot for the PI R&D department
+          - Responsible for migration of legacy SAS code and Machine Learning models to updated and modernized Python structure
+
+      - layout: top-left
         title: Loyola Marymount University
         caption: August 2022 - Present
         sub_title: Adjunct Professor
         quote: >
-          "99% of the ethical life is being kind to people." - James Martin, S.J. 
+          "99% of the ethical life is being kind to people." - James Martin, S.J.
         description: |
           - Fall 2022: Computer Programming and Lab (CMSI 1010)
             - Presented and helped design two, hour and a half sessions per week to teach the basics paradigms and techniques
             - Taught data structures, basic algorithms, recursion, and object-oriented programming to undergraduate students
-            
+
       - layout: top-left
         title: Loyola Marymount University
-        caption: August 2022 - Present
+        caption: August 2022 - Mary 2023
         sub_title: Graduate Researcher
         description: |
           - Generative Chatbot
             - Design and implementation of two baseline models, a rule-based approach and information retrieval (IR)-based approach, then an encoder-decoder model to create generative automatic chatbot responses
           - USDA Model Solutions Competition 
-            - Identify new approaches to linking Department of Agriculture (USDA) Economic Research Service (ERS)’s Food and Nutrient Database for Dietary Studies (FNDDS) to Information Resources, Inc. (IRI) retail store data in producing the Purchase to Plate Crosswalk (PPC). 
-            
+            - Identify new approaches to linking Department of Agriculture (USDA) Economic Research Service (ERS)’s Food and Nutrient Database for Dietary Studies (FNDDS) to Information Resources, Inc. (IRI) retail store data in producing the Purchase to Plate Crosswalk (PPC).
+
       - layout: top-left
         title: Travelers Insurance
         caption: May 2022 - August 2022
@@ -151,7 +173,6 @@ content:
           - Used NLP to analyze 100k+ claims with 100+ documents per claim to enhance efficiency of claim professionals
           - Used <mark>AWS SageMaker</mark> environment to implement, modify, and translate between dev and prod environments
 
-         
       - layout: top-left
         title: Cytokinetics
         link: https://cytokinetics.com/
@@ -201,6 +222,17 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: top-middle
+        title: Artistic Faces
+        link: https://github.com/nmorgan8/ArtisticFaces?tab=readme-ov-file
+        link_text: Click here for Github
+        quote: >
+          Image to Image Generative Adversial and Convolutional Neural Networks to transfer historical art styles onto a user's captured image in real-time
+        description: | # this will include new lines to allow paragraphs
+          - Trained, implemented, and fine-tuned two neural networks on ImageNet, ~50k human faces from ages 10-65, and Wikiart, ~10k images per art movement, image datasets 
+          - Two different models were trained and fine-tuned to transfer the historical art style of either impressionism, realism, rococo, romanticism onto the real-time image
+          - Eight total models trained to demonstrate effect of CycleGANs vs VGG-16 implementation when dealing with image-to-image transaltaiton and style transfer
+
       - layout: top-middle
         title: Schedulion
         link: https://schedulion.vercel.app
@@ -273,6 +305,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Custom PC Building
       - Blockchain/Web3
       - Skiing
       - Gaming
