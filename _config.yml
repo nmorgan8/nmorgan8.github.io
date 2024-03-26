@@ -224,8 +224,12 @@ content:
     content:
       - layout: top-middle
         title: Artistic Faces
-        link: https://github.com/nmorgan8/ArtisticFaces?tab=readme-ov-file
-        link_text: Click here for Github
+        link: https://huggingface.co/spaces/nmorgan8/ArtisticFaces
+        link_text: PROJECT LINK HERE
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/nmorgan8/ArtisticFaces?tab=readme-ov-file
         quote: >
           Image to Image Generative Adversial and Convolutional Neural Networks to transfer historical art styles onto a user's captured image in real-time
         description: | # this will include new lines to allow paragraphs
