@@ -36,7 +36,7 @@ github_username: nmorgan8
 additional_links:
   - title: Resume
     icon: far fa-file
-    url: https://drive.google.com/file/d/18A_m0SmdiMv6lVgNRn6pW9rHaH9VN96g/view?usp=sharing
+    url: https://drive.google.com/file/d/1bmDTMgtcOX_2bnPDg5gYBPRoS-EfH0nA/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -55,12 +55,12 @@ about_profile_image: images/profile_pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nick and I graduated, with a MS, in Spring 2023 from Loyola Marymount University. 
   I currently work at Travelers Insurance as an Associate Data Scientist where I had lead a project to develop a novel NLP Deep Learning Neural Network, currently used in production, that predicts various levels of insurance claim severity and currently develop and implement pricing models for countrywide personal and property insurance pricing.
-  I concurrently work at a NSF SBIR Phase 1 research startup, MealMate Inc, as the first engineer hired working on primarily on the LLM-based chatbot, initial IOS application desgin and implementation, and AWS backend deployment and production.
+  I concurrently work at a NSF SBIR Phase 1 research startup, MealMate Inc, as the first engineer hired working on primarily on the Azure OpenAI LLM-based chatbot, ML models to recommendations of similar meals, initial IOS application desgin and implementation, and AWS backend deployment and production.
   I previously worked as an Adjunct Professor at Loyola Marymount University while completing my Masters in Computer Science with an emphasis in Machine Learning and AI. 
 
   I am most skilled in: <mark>Python, Machine Learning, AI, and Data Science</mark> and making dad jokes.
 
-  If you would like to check out my resume you can click the file icon at top right, or check it out [here](https://drive.google.com/file/d/18A_m0SmdiMv6lVgNRn6pW9rHaH9VN96g/view?usp=sharing)
+  If you would like to check out my resume you can click the file icon at top right, or check it out [here](https://drive.google.com/file/d/1bmDTMgtcOX_2bnPDg5gYBPRoS-EfH0nA/view?usp=sharing)
 
 content:
   - title: Education # Title for the section
@@ -74,7 +74,7 @@ content:
       - layout: top-middle
         title: Loyola Marymount University
         caption: 2018 - 2022
-        sub_title: BS Computer Science & Minor Pure Mathematics | GPA - 3.81
+        sub_title: BS Computer Science & Minor Pure Mathematics | GPA - Magna Cum Laude
         quote: >
           "Education breeds confidence. Confidence breeds hope. Hope breeds peace." - Confucius
 
@@ -93,6 +93,7 @@ content:
         description: |
           - KECK (CS) Lab - TA/Lab Assistant, helped students complete course work and understand the basic programming paradigms, data structures, and algorithms
           - LMU ACM - Loyola Marymount Association for Computing Machinery club member
+          - LMU EFH - Loyola Marymount Engineer for Humanity
           - Ski and Snowboard Club - Helped facilited and organize group transportation and trip planning for club members
 
   - title: Skills & Related Coursework
@@ -102,10 +103,10 @@ content:
         title: Technical Skills
         description: |
           **Programming (or other) Languages**:
-          - Python, Swift, JavaScript, Java, C++, Solidity
+          - Python, JavaScript, Swift, Java, C++, Solidity
 
           **Software & Tools**:
-          - TensorFlow, PyTorch, scikit-learn, PyTorch, Numpy, Pandas, Docker, Flask, AWS (SageMaker, EC2, Lambda, RDS, DynamoDB), ReactJS, NodeJS, Google Firebase, Django, SQL/noSQL Databases, RESTful architecture, Microsoft Office
+          - TensorFlow, Keras, PyTorch, scikit-learn, Spark, XGBoost, Numpy, Pandas, Polars, Docker, AWS (SageMaker, EC2, Lambda, RDS, DynamoDB), Snowflake, Databricks, Flask, ReactJS, NodeJS, Google Firebase, Django, SQL/noSQL Databases, RESTful architecture, Microsoft Office
 
       - layout: top-left
         title: Related Coursework
@@ -118,15 +119,15 @@ content:
       - layout: top-left
         title: MealMate, Inc.
         caption: March 2023 - Present
-        sub_title: Software Engineer
+        sub_title: Machine Learning Engineer
         quote: >
           Easily create a better Diet Tracking Experience for everyone, anywhere
         description: |
-          - Collaborated closely with the co-founders to define the product roadmap, prioritize features, and architected the frontend, backed, and machine learning AI systems
-          - Designed and implemented login and initial pages with functional features for the MVP IOS application
-          - Designed MVP and AI food recommender systems, enabling accurate and semantically relevant meal recommendations
-          - Responsible for the deployment and maintenance of AWS production server for IOS application backend services
-          - Designed and trained machine learning models for meal recommendations, resulting in high performance and accuracy
+          - Collaborated closely with the co-founders to define the product roadmap, prioritize features, and architected the frontend, backed, and machine learning AI systems for B2C SaaS for research universities to leverage in scientific studies
+          - Designed and trained ML/AI models for meal recommendations take combined foods into meals, from USDA food database comprised of 2M+ samples, resulting in high performance, accuracy, and semantically relevant results
+          - Responsible for the deployment and maintenance of AWS production server for LLM, ML, and backend SQL functionalities
+          - Designed and implemented Azure LLM to help chatbot interactions with users assist with food/weight logging, recommendations, nutrition information, and comparisons between foods/meals
+          - Created MVP, designed UI, and implemented login and initial pages with functional features for the MVP IOS application
 
       - layout: top-left
         title: Travelers Insurance
@@ -235,7 +236,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Trained, implemented, and fine-tuned two neural networks on ImageNet, ~50k human faces from ages 10-65, and Wikiart, ~10k images per art movement, image datasets 
           - Two different models were trained and fine-tuned to transfer the historical art style of either impressionism, realism, rococo, romanticism onto the real-time image
-          - Eight total models trained to demonstrate effect of CycleGANs vs VGG-16 implementation when dealing with image-to-image transaltaiton and style transfer
+          - Eight total models trained to demonstrate effect of <mark>CycleGANs</mark> vs <mark>VGG-16</mark> implementation when dealing with image-to-image transaltaiton and style transfer
 
       - layout: top-middle
         title: Schedulion
@@ -278,6 +279,28 @@ content:
           - Fake news data found from an open-source dataset on Kaggle.
           - Baseline Logisitic Regression classifier trained on titles and text of articles of both real and fake
           - Feed-Forward Neural Network built in python using <mark>pytorch</mark>
+
+      - layout: top-middle
+        title: Movie Review Sentiment Analyzer
+        link: https://github.com/nmorgan8/Sentiment-Analyzer
+        link_text: Click here for Github
+        quote: >
+          Movie Review analyzer to determine if movie reviews are positive in favor of the movie or if they are negative and do not like the movie.
+        description: |
+          - Movie reviews data found from example Tensorflow dataset
+          - Tensorflow keras preprocessing to tokenzier and sequences of movie reviews
+          - Feed-Forward Sequential Neural Network built in python using <mark>tensorflow</mark> and <mark>keras</mark>
+
+      - layout: top-middle
+        title: LinkedIn Profile Scraper - Chrome Extension
+        link: https://github.com/nmorgan8/chrome-extension-linkedin-scraper
+        link_text: Click here for Github
+        quote: >
+          Chrome Extension that allows users to scrape LinkedIn profiles
+        description: |
+          - Allows users to extract name, current position/title, and education history from LinkedIn profile
+          - Minimalistic UI to allow for simple user experience
+          - Uses basic <mark>Javascript</mark>, <mark>HTML</mark>, and <mark>CSS</mark> for ease of implementation and use for users
 
       - layout: top-middle
         title: Medley
